@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyDpP_sA6-PPXrZjeiYdiT8yXjiwJ9DiCJ8</string>
+</resources>
