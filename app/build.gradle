@@ -60,5 +60,15 @@ dependencies {
     implementation "com.squareup.okhttp3:okhttp:$logging_version"
     implementation "com.squareup.okhttp3:logging-interceptor:$logging_version"
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.0'
+    implementation 'com.google.maps:google-maps-services:0.18.0'
+
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0'
+    implementation 'com.google.maps.android:android-maps-utils:2.2.0'
+
+    implementation 'com.google.android.gms:play-services-maps:17.0.1'
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
+    implementation 'com.google.maps:google-maps-services:0.17.0'
+    implementation 'com.google.android.libraries.places:places:2.4.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.0'
+    implementation 'com.android.volley:volley:1.2.1'
 }
